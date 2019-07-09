@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# pelican
+output
+
+# direnv
+.envrc
+.direnv
+
+# vscode
+.vscode
