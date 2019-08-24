@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'eijit'
 SITENAME = 'eijit\'s blog'
 SITEURL = 'https://eijit.github.io'
+# SITEURL = 'http://localhost:8000'
 
 PATH = 'content'
 
@@ -47,3 +48,5 @@ PLUGINS = [
 ]
 
 THEME = '../pelican-themes/elegant'
+
+STATIC_PATHS = ['images']
