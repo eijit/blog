@@ -1,7 +1,7 @@
-Title: Favorite Texts
+Title: Favorite Sentences
 Date: 2019-08-27
 Modified: 2019-08-27
-Slug: favorite-texts
+Slug: favorite-sentences
 Authors: eijit
 
 # お気に入りの文章
