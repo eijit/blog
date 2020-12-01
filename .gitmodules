@@ -1,0 +1,9 @@
+[submodule "plugins/pelican-toc"]
+	path = plugins/pelican-toc
+	url = https://github.com/eijit/pelican-toc.git
+[submodule "plugins/render-math"]
+	path = plugins/render-math
+	url = https://github.com/pelican-plugins/render-math.git
+[submodule "plugins/pelican-plugins"]
+	path = plugins/pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins.git
