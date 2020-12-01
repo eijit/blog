@@ -48,6 +48,6 @@ PLUGINS = [
     'series'
 ]
 
-THEME = '../pelican-themes/elegant'
+THEME = './themes/elegant'
 
 STATIC_PATHS = ['images']
