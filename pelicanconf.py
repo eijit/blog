@@ -31,7 +31,6 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
 SOCIAL = (
     ('Twitter',   'https://twitter.com/eijit'),
     ('GitHub',    'https://github.com/eijit'),
-    ('Facebook',  'https://www.facebook.com/eiji.taniguchi.56'),
     ('Bookmeter', 'https://bookmeter.com/users/13752'),
 )
 
