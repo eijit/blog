@@ -22,6 +22,7 @@ Authors: eijit
 * [進化する昆虫図鑑 / 岐阜聖徳学園大学教育学部川上研究室](http://www.ha.shotoku.ac.jp/~kawa/KYO/SEIBUTSU/DOUBUTSU/500KonchuTop/index.html)
 * [NPO 法人こどもとむしの会](https://www.konchukan.net)
     * [きべりはむし / NPO 法人こどもとむしの会](https://www.konchukan.net/kiberihamushi/)
+* [自然散策](https://hosigoi.web.fc2.com)
 
 # 鱗翅目
 
