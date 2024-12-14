@@ -13,6 +13,7 @@ Authors: eijit
 * [日本植物防疫協会](https://www.jppa.or.jp)
 * [大阪府いきもの資料館](https://www.pref.osaka.lg.jp/o120030/midori/seibututayousei/osakabdshiryoukan.html)
     * [大阪府野生生物目録 2000.3](https://www.pref.osaka.lg.jp/documents/33925/yaseiseibutsumokurku1.pdf)
+* [K's Life List](https://kslifelist.com/pages/Toppage.html)
 
 # 昆虫
 
