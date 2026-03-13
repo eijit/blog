@@ -24,6 +24,8 @@ Authors: eijit
 * [NPO 法人こどもとむしの会](https://www.konchukan.net)
     * [きべりはむし / NPO 法人こどもとむしの会](https://www.konchukan.net/kiberihamushi/)
 * [自然散策](https://hosigoi.web.fc2.com)
+* [日本昆虫学会](https://entsoc.jp)
+* [北河内昆虫記](https://osaka-insecta.sakura.ne.jp/index.html)
 
 # 鱗翅目
 
@@ -34,8 +36,15 @@ Authors: eijit
 * [明石の蛾達](http://yamken.jp/yam-hp3/akasinogatati.html)
 * [北茨城周辺の生き物](http://kitaibaraki987.blog.fc2.com)
 * [南四国の蛾](http://homapage64.private.coocan.jp)
+* [MothProg](http://www.mothprog.com)
+    * [List-MJ 日本産蛾類総目録](http://listmj.mothprog.com)
+* [富山県産 蛾類博物館](https://t-moth.jp)
+* [対馬の蛾類](http://yohbo.web.fc2.com)
+* [ちょう・がのずかん](http://dragomoss.la.coocan.jp/tyouga/zukan/zukan.html)
+* [Digital Moths of Japan](http://www.jpmoth.org/~dmoth/)
+* [蛾色灯。](http://gairoto.cocolog-nifty.com)
 
-## 蛾の芋虫
+## 蛾の幼虫
 
 * [終齢幼虫の形態によるタイプ名 一覧 / 明石の蛾達](http://yamken.jp/yam-hp3/sel_youtyuu.html)
     * [幼虫　イモ虫タイプ 科別 種名一覧表](http://yamken.jp/yam-hp3/sel_youtyuu_imomusi.html)
@@ -46,6 +55,7 @@ Authors: eijit
     * [幼虫　スズメガ科　種名一覧表](http://yamken.jp/yam-hp3/sel_youtyuu_suzumega.html)
     * [幼虫　ヤガ科　種名一覧表](http://yamken.jp/yam-hp3/sel_youtyuu_yaga.html)
 * [蛾の生態図鑑 / 南四国の蛾](http://yokonami.web.fc2.com/20youtyumokuzi.html)
+* [センスオブワンダふるイモムシケムシ](https://kemushitanken.jugem.jp/)
 
 # 鞘翅目
 
@@ -86,3 +96,14 @@ Authors: eijit
     * [日本産アワノメイガ属 (Ostrinia) の種の同定と寄主植物 / 植物防疫](https://www.jppn.ne.jp/jpp/s_mokuji/19870205.pdf)
 * チャバネアオカメムシ
     * [日本産チャバネアオカメムシ類の最新の分類 / 植物防疫](https://www.jppn.ne.jp/jpp/s_mokuji/20190405.pdf)
+
+# 鳥
+
+* [野鳥記録ツール フィールドノート](https://birdwatch.bird-research.jp/home)
+* [Featherbase](https://www.featherbase.info/jp/home)
+* [花鳥風月に遊ぶ ２](http://tugumi2003.blog130.fc2.com/)
+* [鳥小屋](https://www.omnh.jp/wada/wada-index.html)
+
+# 樹木
+
+* [葉と枝による樹木検索図鑑](https://elm3.web.fc2.com/index.html)
